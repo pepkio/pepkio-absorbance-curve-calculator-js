@@ -1,6 +1,6 @@
 {
   "name": "pepkio-absorbance-curve-calculator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Call the Pepkio Standard Curve & Concentration Calculator REST API from Node.js with typed ESM imports and a CLI.",
   "license": "MIT",
   "author": "Pepkio Team",
@@ -23,8 +23,15 @@
     "elisa",
     "bca",
     "bradford",
+    "four-pl",
     "plate-reader",
     "assay",
+    "immunoassay",
+    "blank-subtraction",
+    "dilution-factor",
+    "model-comparison",
+    "optical-density",
+    "qc-flags",
     "pepkio",
     "laboratory-calculator",
     "concentration",
@@ -48,7 +55,9 @@
     "pepkio-absorbance-curve-calculator": "dist/cli.js"
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md",
+    "README_NPM.md"
   ],
   "scripts": {
     "build": "tsup",

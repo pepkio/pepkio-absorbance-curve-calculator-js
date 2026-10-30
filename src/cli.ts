@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// SPDX-License-Identifier: MIT
 /** Command-line interface for pepkio-absorbance-curve-calculator. */
 
 import { Command } from "commander";

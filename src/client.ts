@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 /** HTTP client for the Pepkio absorbance-curve-calculator tool. */
 
 import { Agent, type Dispatcher } from "undici";
