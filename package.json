@@ -1,6 +1,6 @@
 {
   "name": "pepkio-absorbance-curve-calculator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Call the Pepkio Standard Curve & Concentration Calculator REST API from Node.js with typed ESM imports and a CLI.",
   "license": "MIT",
   "author": "Pepkio Team",
@@ -80,5 +80,6 @@
     "tsup": "^8.4.0",
     "typescript": "^5.9.3",
     "vitest": "^3.1.2"
-  }
+  },
+  "readme": "README_NPM.md"
 }

@@ -108,3 +108,5 @@ Python client (PyPI): https://pypi.org/project/pepkio-absorbance-curve-calculato
 # About Pepkio
 
 Pepkio (https://www.pepkio.com/) develops software tools and bioinformatics solutions for life science researchers, including laboratory calculators and analysis services.
+
+A semantic, AI-native version of this document in the K2F format is available at https://k2f.dev (https://k2f.dev/v/112da55cc2b3ff98410dceb3d4a606adf9ebea01177760938e95f2a05ecc7afb)
